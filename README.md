@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Em</h1>
-<h3 align="center">A Cloud Practitioner</h3>
+<h3 align="center">Aspiring Cloud DevOps Engineer</h3>
 
 - 🌱 I’m currently learning **AWS, CI/CD, Linux, Python, Jenkins, Terraform**
 
